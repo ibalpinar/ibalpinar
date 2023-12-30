@@ -6,7 +6,7 @@
 ### Short Bio
 
 - ⚙️ Use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
-- 🌱 Currently learning: `.c`, `.cpp`
+- 🌱 Currently learning: `.c`, `.cpp` and preparing for the CCNA / CCNP certification exams.
 - 👨‍💻 Only active on **TurkNet** during working hours.
 - 🌍 Outside of working hours, I spend time with **my family** and special **open source projects**
 - 🌱 Learning all about **Open Source**
