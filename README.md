@@ -6,7 +6,7 @@ Let's start with my very simple motto:
 
 This is my Streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibalpinar&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ibalpinar&theme=highcontrast)](https://git.io/streak-stats)
 
 [![Github](https://img.shields.io/github/followers/ibalpinar?label=Follow&style=social)](https://github.com/ibalpinar)
 ### Short Bio
