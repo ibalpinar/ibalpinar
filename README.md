@@ -2,7 +2,7 @@
 
 Let's start with my very simple motto:
 
-#### "Improve atomically every day and add one brick to your product family every day."
+#### "Get atomically better every day and put at least one brick in your knowledge base."
 
 This is my Streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
 
