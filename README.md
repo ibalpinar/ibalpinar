@@ -20,6 +20,8 @@ This is my Streak and some brief information you can find about me. For more, vi
 - 😻 Big fan of cats, especially Istanbul cats!
 - 📫 Reach me via [E-mail], [X], [LinkedIn], [Instagram].
 
+Finally, although I am still at the beginning, you can find some of my cses and leetcode solutions in the relevant repositories.
+
 [E-mail]: mailto:ilker@balpinar.com
 [X]: https://twitter.com/ibalpinar
 [LinkedIn]: https://www.linkedin.com/in/ibalpinar
@@ -39,6 +41,7 @@ This is my Streak and some brief information you can find about me. For more, vi
    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="25" height="25"/></a>
    <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/></a>
 </div>
+
 
 <!--
 **ibalpinar/ibalpinar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
