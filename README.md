@@ -9,6 +9,9 @@ This is my Streak and some brief information you can find about me. For more, vi
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibalpinar&theme=hacker)](https://git.io/streak-stats)
 
 [![Github](https://img.shields.io/github/followers/ibalpinar?label=Follow&style=social)](https://github.com/ibalpinar)
+
+Notice: Github Streak is a great open-source software that I enjoy using. But unfortunately, it has been throwing errors lately, sorry about that.
+
 ### Short Bio
 
 - ⚙️ Use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
