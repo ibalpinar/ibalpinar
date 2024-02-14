@@ -17,7 +17,7 @@ Notice: Github Streak is a great open-source software that I enjoy using. But un
 - ⚙️ Use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`, `.py`
 - 🌱 Currently learning: `.c`, `.cpp` and preparing for the CCNA / CCNP certification exams.
 - 👨‍💻 Only active on **TurkNet** during working hours.
-- 🌍 Outside of working hours, I spend time with **my family** and special **open source projects**
+- 🌍 Outside of working hours, I spend time with **my family** and some **open source projects**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **linux**, **bash**, **java**, **javascript**, **development**
 - 😻 Big fan of cats, especially Istanbul cats!
