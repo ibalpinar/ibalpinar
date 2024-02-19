@@ -14,7 +14,7 @@ Notice: Github Streak is a great open-source software that I enjoy using. But un
 
 ### Short Bio
 
-- ⚙️ Currently working on: ResumeX Open Source resume platform.
+- ⚙️ Currently working on: ResumeX -> Open Source resume platform.
 - ⚙️ Use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`
 - 🌱 Currently learning: `.c`, `.cpp` and preparing for the CCNA / CCNP certification exams.
 - 👨‍💻 Only active on **TurkNet** during working hours.
