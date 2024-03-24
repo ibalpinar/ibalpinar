@@ -4,27 +4,27 @@ Let's start with my very simple motto:
 
 #### "Get atomically better every day and put at least one brick in your knowledge base."
 
-This is my Streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
+This is my streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ibalpinar&theme=hacker)](https://git.io/streak-stats)
 
 [![Github](https://img.shields.io/github/followers/ibalpinar?label=Follow&style=social)](https://github.com/ibalpinar)
 
-Notice: Github Streak is a great open-source software that I enjoy using. But unfortunately, it has been throwing errors lately, sorry about that.
+Notice: Github Streak is a great open-source software that I enjoy using.
 
 ### Short Bio
 
 - ⚙️ Currently working on: ResumeX -> Open Source resume platform.
 - ⚙️ Use daily: `.js`, `.java`, `.sh`, `.html`, `.css`, `.sql`
-- 🌱 Currently learning: `.c`, `.cpp` and preparing for the CCNA / CCNP certification exams.
+- 🌱 Currently learning: `.c`, `.cpp`, Svelte and preparing for the CCNA / CCNP certification exams.
 - 👨‍💻 Only active on **TurkNet** during working hours.
 - 🌍 Outside of working hours, I spend time with **my family** and some **open source projects**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **linux**, **bash**, **java**, **javascript**, **development**
+- 🌱 Trying to learn all about **Open Source**
+- 💬 Ping me about **linux**, **bash**, **java**, **javascript**, **software engineering**
 - 😻 Big fan of cats, especially Istanbul cats!
 - 📫 Reach me via [E-mail], [X], [LinkedIn], [Instagram].
 
-Finally, although I am still at the beginning, you can find some of my cses and leetcode solutions in the relevant repositories.
+Finally, although I'm still at the beginning, you can find some of my cses and leetcode solutions in the relevant repositories.
 
 [E-mail]: mailto:ilker@balpinar.com
 [X]: https://twitter.com/ibalpinar
