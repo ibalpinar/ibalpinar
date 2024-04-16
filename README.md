@@ -20,7 +20,7 @@ Notice: Github Streak is a great open-source software that I enjoy using.
 - 👨‍💻 Only active on **TurkNet** during working hours.
 - 🌍 Outside of working hours, I spend time with **my family** and some **open source projects**
 - 🌱 Trying to learn all about **Open Source**
-- 💬 Ping me about **linux**, **bash**, **java**, **javascript**, **software engineering**
+- 💬 Ping me about **linux**, **bash**, **java**, **javascript**, **software engineering** and let's discuss anything you want.
 - 😻 Big fan of cats, especially Istanbul cats!
 - 📫 Reach me via [E-mail], [X], [LinkedIn], [Instagram].
 
