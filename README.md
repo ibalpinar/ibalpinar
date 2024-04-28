@@ -24,7 +24,7 @@ Notice: Github Streak is a great open-source software that I enjoy using.
 - 😻 Big fan of cats, especially Istanbul cats!
 - 📫 Reach me via [E-mail], [X], [LinkedIn], [Instagram].
 
-Finally, although I'm still at the beginning, you can find some of my CSES and LeetCode solutions in the relevant repositories.
+Finally, although I'm still at the beginning, you can find some of my CSES and LeetCode solutions in the relevant repositories. You can join me in any programming language you want ;)
 
 [E-mail]: mailto:ilker@balpinar.com
 [X]: https://twitter.com/ibalpinar
