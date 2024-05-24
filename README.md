@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Let's start with my very simple motto:
+Let's start with my simple and humble motto:
 
 #### "Get atomically better every day and put at least one brick in your knowledge base."
 
