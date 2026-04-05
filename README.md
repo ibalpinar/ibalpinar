@@ -6,8 +6,6 @@ Let's start with my simple and humble motto:
 
 This is my streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ibalpinar&theme=hacker)](https://git.io/streak-stats)
-
 Notice: Github Streak is a great open-source software that I enjoy using.
 
 ### Short Bio
