@@ -4,10 +4,6 @@ Let's start with my simple and humble motto:
 
 #### "Get atomically better every day and put at least one brick in your knowledge base."
 
-This is my streak and some brief information you can find about me. For more, visit <a href="https://balpinar.com" target="_blank">balpinar.com</a>
-
-Notice: Github Streak is a great open-source software that I enjoy using.
-
 ### Short Bio
 
 - ⚙️ Currently working on: ResumeX -> Open Source resume platform (back-end, front-end, UX and UI) and some algorithm practices such as CSES, LeetCode and Euler project.
